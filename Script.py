@@ -199,8 +199,8 @@ Nᴀᴍᴇ - {}"""
 ╰─────── • ◆ • ───────╯
 
 =========== • ✠ • ===========
-▫️ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 : @TG_UPDATES1
-▫️ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : @movies_hub_official2
+▫️ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 : <a href="https://t.me/TG_UPDATES1">𝐔𝐏𝐃𝐀𝐓𝐄𝐒</a>
+▫️ 𝐀𝐁𝐎𝐔𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 : <a href="https://t.me/about_kushalhk/16">𝐀𝐁𝐎𝐔𝐓 𝐌𝐄 😎</a>
 =========== • ✠ • ===========</b>"""
 
     IMDB_TEMPLATE_TXT = """
